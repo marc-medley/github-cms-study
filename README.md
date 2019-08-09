@@ -1,3 +1,3 @@
 # github-cms-study
 
-A description of this package.
+Content Management System (CMS) experiments using GitHub.
